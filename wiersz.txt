@@ -1,7 +1,9 @@
 Lorem
+Robię coś w alternatywnej gałęzi
 lorem
 ipsum
 dolor
 sit
 amet
+Coś
 amet
